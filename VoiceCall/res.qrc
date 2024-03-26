@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>语音通话及视频通话UI/语音通话-挂断.png</file>
+        <file>语音通话及视频通话UI/语音通话-接听.png</file>
+        <file>语音通话及视频通话UI/语音通话-拒绝.png</file>
+    </qresource>
+</RCC>
